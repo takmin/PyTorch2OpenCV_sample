@@ -9,6 +9,12 @@ Here are sample codes to train CNN model with PyTorch and to use it with OpenCV,
 4. Load ONNX file from OpenCV. (opencv_LeNet.cpp)
 
 These sample codes train LeNET5 with MNIST dataset.
+I confirmed this code in following environment:
+- Ubuntu 18.04
+- Python 3.6
+- OpenCV 4.3 (C++)
+- PyTorch 1.4.0 + torchvision 0.5.0
 
 If you want to train Keras+Tensorflow model and export it to OpenCV, see below:
+
 https://github.com/takmin/Keras2OpenCV
